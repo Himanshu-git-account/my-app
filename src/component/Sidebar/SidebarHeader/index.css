@@ -1,0 +1,11 @@
+.sbHeaderContainer{
+
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.sbHeaderContainer>div{
+    cursor: pointer;
+}
