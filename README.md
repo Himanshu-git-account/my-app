@@ -3,8 +3,11 @@
 - cra
 - configured Tailwind css
 - Header
+- Routing Installation
 - Login form
 - Sign up Form
+- FOrm Validation
+- useRef Hook
 
 # Features
     - Login/Signup
@@ -18,6 +21,6 @@
         - MOvie Suggestion
         - MOvie list * N
 
-- BingeBox AI
+    - BingeBox AI
     - Search Bar
     - Movie Suggestions
